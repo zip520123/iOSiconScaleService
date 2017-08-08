@@ -1,4 +1,4 @@
-# iOS scale service
+# iOS icon scale service
 將圖片縮放成符合iOS規定的icon尺寸服務。
 ![sample](demo.png)
 ## Introduction
